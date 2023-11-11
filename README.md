@@ -10,3 +10,9 @@ Run App.py using python3 app/app.py command to execute the program
 <br>
 (Active Intenet Connection is requirred)
 
+# Screenshots of GUI
+![alttext](https://github.com/GreenBladePk/CropRecommendationSystemApp/blob/master/app/static/images/Screenshot%202023-09-07%20173906.png)
+
+![alttext](https://github.com/GreenBladePk/CropRecommendationSystemApp/blob/master/app/static/images/Screenshot%202023-09-07%20173932.png)
+
+
